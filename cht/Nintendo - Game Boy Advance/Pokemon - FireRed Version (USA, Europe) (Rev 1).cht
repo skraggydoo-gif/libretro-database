@@ -107,3 +107,11 @@ cheat25_enable = false
 cheat26_desc = "Infinite Money"
 cheat26_code = "042257BC+000F423F"
 cheat26_enable = false
+
+cheat27_desc = "Walk Faster"
+cheat27_code = "83FC3F82+4BEF6F83+E37D365E+D7EAB6AB
+cheat27_enable = false
+
+cheat28_desc = "EXP SHARE"
+cheat28_code = "AE52DCC4+3F993897+FC69C795+A81FBBE4
+cheat28_enable = false
